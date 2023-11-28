@@ -1,0 +1,12 @@
+
+
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.products-container > Products{
+    display: flex;
+    flex-direction: column;
+}
